@@ -1,0 +1,59 @@
+body
+{
+            background-image: url('/trading_system/WebContent/WEB-INF/lib/pic5.jpg');
+             background-repeat: no-repeat;
+             background-attachment: fixed;
+             background-size: cover;
+             text-align: center;
+             color: black;
+             font-size: 25px;
+}
+a
+   {      
+        font-size:15px;
+        color:white;
+   }
+p
+{
+    font-size: 50px;
+    text-align: center;
+
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+h2{
+    text-align : center;
+}
+form {
+    align : center;
+    text-align: center;
+}
+script{
+    color:red;
+}
+.register{
+  position:absolute;
+   top:0;
+   right:0;
+  width: 20%;
+  padding: 8px 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+table{
+text-align = right;
+}
+input {
+  width: 60%;
+  padding: 8px 50px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  width: 20%;
+  padding: 8px 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
